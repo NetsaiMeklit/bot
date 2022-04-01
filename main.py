@@ -46,7 +46,7 @@ PASSWORD = os.environ["PASSWORD"]
 BRANCH_NAME = "switch-to-inclusive-terms"
 TITLE = "Switch to gender neutral terms"
 DESCRIPTION = "\
-Hey! We noticed your repository had a few instances of gendered language. We've attempted to make the changes to gender neutral language using these substitions - [joelparkerhenderson/gender-inclusive-language](https://github.com/joelparkerhenderson/gender-inclusive-language). These are not always perfect, but we hope they will assist maintainers in finding and fixing issues :)\n\n\
+Hey! We noticed your repository had a few instances of gendered language. We've attempted to make the changes to gender neutral language. These are not always perfect, but we hope they will assist maintainers in finding and fixing issues :)\n\n\
 You can learn more about this project and why gender neutral language matters at [inclusivecoding.wixsite.com](https://inclusivecoding.wixsite.com/home). If you have feedback for this bot, please provide it [here](https://forms.gle/MnEH24gWbzPLSnnv7).\
 "
 g = Github(PASSWORD)
