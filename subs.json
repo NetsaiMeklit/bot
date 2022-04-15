@@ -1,136 +1,136 @@
 [
     {
-        "search": ["he", "she"],
+        "search": ["they", "they"],
         "score": 0.1,
         "suggest": ["they"]
     },
     {
-        "search": ["him", "her"],
+        "search": ["them", "them"],
         "score": 0.1,
         "suggest": ["them"]
     },
     {
-        "search": ["his", "hers"],
+        "search": ["their", "their"],
         "score": 0.1,
         "suggest": ["their"]
     },
     {
-        "search": ["boy", "girl"],
+        "search": ["child", "child"],
         "score": 0.2,
         "suggest": ["person", "individual", "child"]
     },
     {
-        "search": ["boyfriend", "girlfriend"],
+        "search": ["friend", "friend"],
         "score": 0.2,
         "suggest": ["friend", "date", "partner", "companion", "consort", "significant other"]
     },
     {
-        "search": ["woman"],
+        "search": ["person"],
         "score": 0.2,
         "suggest": ["person", "individual", "adult"]
     },
     {
-        "search": ["mankind", "womankind"],
+        "search": ["people", "people"],
         "score": 0.2,
         "suggest": ["people", "humans", "humanity"]
     },
     {
-        "search": ["husband", "wife"],
+        "search": ["spouse", "spouse"],
         "score": 0.2,
         "suggest": ["spouse", "consort"]
     },
     {
-        "search": ["ladies & gentlemen"],
+        "search": ["everyone"],
         "score": 0.5,
         "suggest": ["everyone", "welcome guests", "honored attendees", "etc."]
     },
     {
-        "search": ["men & women"],
+        "search": ["everyone"],
         "score": 0.5,
         "suggest": ["everyone", "teammates", "adults", "colleagues", "etc."]
     },
     {
-        "search": ["boys & girls"],
+        "search": ["everyone"],
         "score": 0.5,
         "suggest": ["everyone", "teammates", "children", "students", "etc."]
     },
     {
-        "search": ["Dear Sir/Madam"],
+        "search": ["Dear Reader"],
         "score": 0.5,
         "suggest": ["Dear Reader", "To Whom It May Concern", "etc."]
     },
     {
-        "search": ["mother", "father"],
+        "search": ["parent", "parent"],
         "score": 0.5,
         "suggest": ["parent"]
     },
     {
-        "search": ["motherhood", "fatherhood"],
+        "search": ["parenthood", "parenthood"],
         "score": 0.5,
         "suggest": ["parenthood"]
     },
     {
-        "search": ["daughter", "son"],
+        "search": ["child", "child"],
         "score": 0.5,
         "suggest": ["child"]
     },
     {
-        "search": ["sister", "brother"],
+        "search": ["sibling", "sibling"],
         "score": 0.5,
         "suggest": ["sibling"]
     },
     {
-        "search": ["girl", "boy"],
+        "search": ["child", "child"],
         "score": 0.5,
         "suggest": ["child", "youth", "youngster"]
     },
     {
-        "search": ["niece", "nephew"],
+        "search": ["nibling", "nibling"],
         "score": 0.5,
         "suggest": ["nibling"]
     },
     {
-        "search": ["aunt", "uncle"],
+        "search": ["auncle", "auncle"],
         "score": 0.5,
         "suggest": ["auncle"]
     },
     {
-        "search": ["fraternal twins"],
+        "search": ["differentiable twins"],
         "score": 0.5,
         "suggest": ["differentiable twins", "non-identical twins"]
     },
     {
-        "search": ["alumnus", "alumna"],
+        "search": ["alum", "alum"],
         "score": 0.5,
         "suggest": ["alum", "graduate"]
     },
     {
-        "search": ["alumni", "alumnae"],
+        "search": ["alums", "alums"],
         "score": 0.5,
         "suggest": ["alums", "graduates"]
     },
     {
-        "search": ["brethren"],
+        "search": ["laity"],
         "score": 0.5,
         "suggest": ["laity"]
     },
     {
-        "search": ["brotherhood", "sisterhood"],
+        "search": ["siblinghood", "siblinghood"],
         "score": 0.5,
         "suggest": ["siblinghood", "fellowship", "camaraderie"]
     },
     {
-        "search": ["brotherly", "sisterly"],
+        "search": ["siblingly", "siblingly"],
         "score": 0.5,
         "suggest": ["siblingly", "kindly", "helpfully"]
     },
     {
-        "search": ["brotherly love", "sisterly love"],
+        "search": ["siblingly love", "siblingly love"],
         "score": 0.5,
         "suggest": ["siblingly love", "charity", "goodwill"]
     },
     {
-        "search": ["coed"],
+        "search": ["student"],
         "score": 0.5,
         "suggest": ["student"]
     },
@@ -140,713 +140,713 @@
         "suggest": ["to guard", "to staff", "to operate", "to mind [the store]"]
     },
     {
-        "search": ["man-made", "woman-made"],
+        "search": ["synthetic", "person-made"],
         "score": 0.5,
         "suggest": ["synthetic", "artificial", "hand-made", "machine-made"]
     },
     {
-        "search": ["manhole"],
+        "search": ["utility hole"],
         "score": 0.5,
         "suggest": ["utility hole", "access hole", "sewer hole", "mainenance hole"]
     },
     {
-        "search": ["manpower", "womanpower"],
+        "search": ["personpower", "personpower"],
         "score": 0.5,
         "suggest": ["personpower", "teampower", "workers", "workforce", "staff"]
     },
     {
-        "search": ["meter-maid", "meter-matron", "meter-man"],
+        "search": ["meter-reader", "meter-reader", "meter-reader"],
         "score": 0.5,
         "suggest": ["meter-reader", "parking enforcement officer"]
     },
     {
-        "search": ["motherland", "fatherland"],
+        "search": ["homeland", "homeland"],
         "score": 0.5,
         "suggest": ["homeland"]
     },
     {
-        "search": ["ad-man", "ad-woman"],
+        "search": ["ad-person", "ad-person"],
         "score": 0.8,
         "suggest": ["ad-person", "advertising executive", "promoter"]
     },
     {
-        "search": ["airman", "airwoman"],
+        "search": ["airperson", "airperson"],
         "score": 0.8,
         "suggest": ["airperson", "air crew member", "pilot"]
     },
     {
-        "search": ["alderman", "alderwoman"],
+        "search": ["alderperson", "alderperson"],
         "score": 0.8,
         "suggest": ["alderperson", "council member"]
     },
     {
-        "search": ["anchorman", "anchorwoman"],
+        "search": ["anchor", "anchor"],
         "score": 0.8,
         "suggest": ["anchor", "anchorperson", "commentator", "newscaster"]
     },
     {
-        "search": ["assemblyman", "assemblywoman"],
+        "search": ["assemblyperson", "assemblyperson"],
         "score": 0.8,
         "suggest": ["assemblyperson", "assembly member"]
     },
     {
-        "search": ["barman", "barwoman"],
+        "search": ["barperson", "barperson"],
         "score": 0.8,
         "suggest": ["barperson", "barkeeper"]
     },
     {
-        "search": ["bondsman", "bondswoman"],
+        "search": ["bondsperson", "bondsperson"],
         "score": 0.8,
         "suggest": ["bondsperson", "guarantor", "insurer"]
     },
     {
-        "search": ["boss man", "boss woman"],
+        "search": ["boss", "boss person"],
         "score": 0.8,
         "suggest": ["boss", "chief", "president", "leader"]
     },
     {
-        "search": ["brakeman", "brakewoman"],
+        "search": ["brake operator", "brake operator"],
         "score": 0.8,
         "suggest": ["brake operator", "train conductor's assistant"]
     },
     {
-        "search": ["businessman", "businesswoman"],
+        "search": ["businessperson", "businessperson"],
         "score": 0.8,
         "suggest": ["businessperson", "executive", "manager"]
     },
     {
-        "search": ["cameraman", "camerawoman"],
+        "search": ["cameraperson", "cameraperson"],
         "score": 0.8,
         "suggest": ["cameraperson", "camera operator", "cinematographer"]
     },
     {
-        "search": ["careerman", "careerwoman"],
+        "search": ["careerperson", "careerperson"],
         "score": 0.8,
         "suggest": ["careerperson", "business person", "professional"]
     },
     {
-        "search": ["caveman", "cavewoman"],
+        "search": ["cave person", "cave person"],
         "score": 0.8,
         "suggest": ["cave person", "cave dweller"]
     },
     {
-        "search": ["chairman", "chairwoman"],
+        "search": ["chair", "chair"],
         "score": 0.8,
         "suggest": ["chair", "chairperson", "coordinator", "head"]
     },
     {
-        "search": ["clergyman", "clergywoman"],
+        "search": ["clergyperson", "clergyperson"],
         "score": 0.8,
         "suggest": ["clergyperson", "clergy member"]
     },
     {
-        "search": ["councilman", "councilwoman"],
+        "search": ["councilperson", "councilperson"],
         "score": 0.8,
         "suggest": ["councilperson", "council member"]
     },
     {
-        "search": ["committeeman", "committeewoman"],
+        "search": ["committeeperson", "committeeperson"],
         "score": 0.8,
         "suggest": ["committeeperson", "committee member"]
     },
     {
-        "search": ["confidence-man", "confidence-woman"],
+        "search": ["confidence-person", "confidence-person"],
         "score": 0.8,
         "suggest": ["confidence-person", "swindler", "crook"]
     },
     {
-        "search": ["congressman", "congresswoman"],
+        "search": ["congressperson", "congressperson"],
         "score": 0.8,
         "suggest": ["congressperson", "congressional representative", "legislator"]
     },
     {
-        "search": ["contact-man", "contact-woman"],
+        "search": ["contact-person", "contact-person"],
         "score": 0.8,
         "suggest": ["contact-person", "contact", "coordinator"]
     },
     {
-        "search": ["countryman", "countrywoman"],
+        "search": ["countryperson", "countryperson"],
         "score": 0.8,
         "suggest": ["countryperson", "compatriot", "fellow citizen"]
     },
     {
-        "search": ["craftsman", "craftswoman"],
+        "search": ["craftsperson", "craftsperson"],
         "score": 0.8,
         "suggest": ["craftsperson", "crafter", "craft maker", "artisan"]
     },
     {
-        "search": ["crewman", "crewwoman"],
+        "search": ["crewperson", "crewperson"],
         "score": 0.8,
         "suggest": ["crewperson", "crew member"]
     },
     {
-        "search": ["dairyman", "dairywoman"],
+        "search": ["dairyperson", "dairyperson"],
         "score": 0.8,
         "suggest": ["dairyperson", "dairy farmer", "dairy worker"]
     },
     {
-        "search": ["deliveryman", "deliverywoman"],
+        "search": ["deliveryperson", "deliveryperson"],
         "score": 0.8,
         "suggest": ["deliveryperson", "deliverer", "courier", "clerk"]
     },
     {
-        "search": ["doorman", "doorwoman"],
+        "search": ["doorperson", "doorperson"],
         "score": 0.8,
         "suggest": ["doorperson", "door attendant", "security guard"]
     },
     {
-        "search": ["draftsman", "draftswoman"],
+        "search": ["draftsperson", "draftsperson"],
         "score": 0.8,
         "suggest": ["draftsperson", "drafter"]
     },
     {
-        "search": ["enlisted man", "enlisted woman"],
+        "search": ["enlisted person", "enlisted person"],
         "score": 0.8,
         "suggest": ["enlisted person", "enlistee", "soldier", "recruit"]
     },
     {
-        "search": ["everyman", "everywoman"],
+        "search": ["everyperson", "everyperson"],
         "score": 0.8,
         "suggest": ["everyperson", "the common person", "the average person"]
     },
     {
-        "search": ["fall guy", "fall gal"],
+        "search": ["fall person", "fall person"],
         "score": 0.8,
         "suggest": ["fall person", "scapegoat"]
     },
     {
-        "search": ["fireman", "firewoman"],
+        "search": ["firefighter", "firefighter"],
         "score": 0.8,
         "suggest": ["firefighter"]
     },
     {
-        "search": ["fisherman", "fisherwoman"],
+        "search": ["fisherperson", "fisherperson"],
         "score": 0.8,
         "suggest": ["fisherperson", "fisher", "angler"]
     },
     {
-        "search": ["foreman", "forewoman"],
+        "search": ["foreperson", "foreperson"],
         "score": 0.8,
         "suggest": ["foreperson", "manager", "supervisor"]
     },
     {
-        "search": ["freshman", "freshwoman"],
+        "search": ["first-year student", "first-year student"],
         "score": 0.8,
         "suggest": ["first-year student", "first-year member"]
     },
     {
-        "search": ["gentleman", "gentlewoman"],
+        "search": ["gentleperson", "gentleperson"],
         "score": 0.8,
         "suggest": ["gentleperson"]
     },
     {
-        "search": ["handyman", "handywoman"],
+        "search": ["handyperson", "handyperson"],
         "score": 0.8,
         "suggest": ["handyperson", "repair person", "maintenance worker"]
     },
     {
-        "search": ["horseman", "horsewoman"],
+        "search": ["horseperson", "horseperson"],
         "score": 0.8,
         "suggest": ["horseperson", "horse rider", "equestrian"]
     },
     {
-        "search": ["layman", "laywoman"],
+        "search": ["layperson", "layperson"],
         "score": 0.8,
         "suggest": ["layperson", "church member", "nonordained person"]
     },
     {
-        "search": ["kinsman", "kinswoman"],
+        "search": ["kinsperson", "kinsperson"],
         "score": 0.8,
         "suggest": ["kinsperson", "relative"]
     },
     {
-        "search": ["lawman", "lawwoman"],
+        "search": ["lawperson", "lawperson"],
         "score": 0.8,
         "suggest": ["lawperson", "law enforcement officer", "sheriff"]
     },
     {
-        "search": ["layman", "laywoman"],
+        "search": ["layperson", "layperson"],
         "score": 0.8,
         "suggest": ["layperson", "nonprofessional", "amateur", "civilian"]
     },
     {
-        "search": ["letterman", "letterwoman"],
+        "search": ["letterperson", "letterperson"],
         "score": 0.8,
         "suggest": ["letterperson", "varsity athelete"]
     },
     {
-        "search": ["lineman", "linewoman", "linesman", "lineswoman"],
+        "search": ["lineperson", "lineperson", "lineperson", "lineperson"],
         "score": 0.8,
         "suggest": ["lineperson", "line worker", "line maintainer"]
     },
     {
-        "search": ["mailman", "mailwoman"],
+        "search": ["mail carrier", "mail carrier"],
         "score": 0.8,
         "suggest": ["mail carrier", "letter carrier", "postal worker"]
     },
     {
-        "search": ["middleman", "middlewoman"],
+        "search": ["intermediary", "intermediary"],
         "score": 0.8,
         "suggest": ["intermediary", "go-between"]
     },
     {
-        "search": ["newsman", "newswoman"],
+        "search": ["newsperson", "newsperson"],
         "score": 0.8,
         "suggest": ["newsperson", "reporter", "correspondent"]
     },
     {
-        "search": ["ombudsman", "ombudswoman"],
+        "search": ["ombudsperson", "ombudsperson"],
         "score": 0.8,
         "suggest": ["ombudsperson", "investigator", "appointee"]
     },
     {
-        "search": ["outdoorsman", "outdoorswoman"],
+        "search": ["outdoors person", "outdoors person"],
         "score": 0.8,
         "suggest": ["outdoors person"]
     },
     {
-        "search": ["patrolman", "patrolwoman"],
+        "search": ["patrolperson", "patrolperson"],
         "score": 0.8,
         "suggest": ["patrolperson", "patrol officer", "patroller"]
     },
     {
-        "search": ["policeman", "policewoman"],
+        "search": ["police officer", "police officer"],
         "score": 0.8,
         "suggest": ["police officer"]
     },
     {
-        "search": ["postman", "postwoman"],
+        "search": ["mail carrier", "mail carrier"],
         "score": 0.8,
         "suggest": ["mail carrier", "letter carrier", "postal worker"]
     },
     {
-        "search": ["pressman", "presswoman"],
+        "search": ["press operator", "press operator"],
         "score": 0.8,
         "suggest": ["press operator"]
     },
     {
-        "search": ["prodigal son", "prodigal daughter"],
+        "search": ["prodigal child", "prodigal child"],
         "score": 0.8,
         "suggest": ["prodigal child", "returning child"]
     },
     {
-        "search": ["repairman", "repairwoman"],
+        "search": ["repairperson", "repairperson"],
         "score": 0.8,
         "suggest": ["repairperson", "maintenance person", "technician"]
     },
     {
-        "search": ["schoolboy", "schoolgirl"],
+        "search": ["schoolchild", "schoolchild"],
         "score": 0.8,
         "suggest": ["schoolchild", "student"]
     },
     {
-        "search": ["snowman", "snowwoman"],
+        "search": ["snowperson", "snowperson"],
         "score": 0.8,
         "suggest": ["snowperson"]
     },
     {
-        "search": ["spokesman", "spokeswoman"],
+        "search": ["spokesperson", "spokesperson"],
         "score": 0.8,
         "suggest": ["spokesperson", "speaker", "representative"]
     },
     {
-        "search": ["sportsman", "sportswoman"],
+        "search": ["sportsperson", "sportsperson"],
         "score": 0.8,
         "suggest": ["sportsperson", "sport player", "athelete", "teammate"]
     },
     {
-        "search": ["sportsmanlike", "sportswomanlike"],
+        "search": ["sportspersonlike", "sportspersonlike"],
         "score": 0.8,
         "suggest": ["sportspersonlike", "sportlike", "sporting", "sporty"]
     },
     {
-        "search": ["sportsmanship", "sportswomanship"],
+        "search": ["sportspersonship", "sportspersonship"],
         "score": 0.8,
         "suggest": ["sportspersonship", "sportship", "sporting", "sporty"]
     },
     {
-        "search": ["statesman", "stateswoman"],
+        "search": ["statesperson", "statesperson"],
         "score": 0.8,
         "suggest": ["statesperson", "political leader", "policy maker", "diplomat"]
     },
     {
-        "search": ["watchman", "watchwoman"],
+        "search": ["watchperson", "watchperson"],
         "score": 0.8,
         "suggest": ["watchperson", "guard", "attendant", "security officer"]
     },
     {
-        "search": ["weatherman", "weatherwoman"],
+        "search": ["weatherperson", "weatherperson"],
         "score": 0.8,
         "suggest": ["weatherperson", "weathercaster", "weather forecaster", "weather reporter"]
     },
     {
-        "search": ["bagboy", "baggirl"],
+        "search": ["bagperson", "bagperson"],
         "score": 0.7,
         "suggest": ["bagperson", "bagger", "assistant", "caddy"]
     },
     {
-        "search": ["batboy", "batgirl"],
+        "search": ["batperson", "batperson"],
         "score": 0.7,
         "suggest": ["batperson", "bat assistant", "caddy"]
     },
     {
-        "search": ["bellboy", "bellgirl"],
+        "search": ["bellperson", "bellperson"],
         "score": 0.7,
         "suggest": ["bellperson", "bellhop", "hotel attendant"]
     },
     {
-        "search": ["busboy", "busgirl"],
+        "search": ["busperson", "busperson"],
         "score": 0.7,
         "suggest": ["busperson", "busser", "bus staffer", "kitchen helper"]
     },
     {
-        "search": ["cabinboy", "cabingirl"],
+        "search": ["cabinperson", "cabinperson"],
         "score": 0.7,
         "suggest": ["cabinperson", "cabin attendant", "cabin helper"]
     },
     {
-        "search": ["choirboy", "choirgirl"],
+        "search": ["choirperson", "choirperson"],
         "score": 0.7,
         "suggest": ["choirperson", "choir member", "choir singer"]
     },
     {
-        "search": ["chorusboy", "chorusgirl"],
+        "search": ["chorusperson", "chorusperson"],
         "score": 0.7,
         "suggest": ["chorusperson", "chorus member", "chorus singer"]
     },
     {
-        "search": ["copyboy", "copygirl"],
+        "search": ["copyperson", "copyperson"],
         "score": 0.7,
         "suggest": ["copyperson", "copy clerk", "copy maker"]
     },
     {
-        "search": ["cowboy", "cowgirl"],
+        "search": ["cowperson", "cowperson"],
         "score": 0.7,
         "suggest": ["cowperson", "cowhand", "ranch hand"]
     },
     {
-        "search": ["flyboy", "flygirl"],
+        "search": ["flyperson", "flyperson"],
         "score": 0.7,
         "suggest": ["flyperson", "pilot", "aviator"]
     },
     {
-        "search": ["boy Friday", "girl Friday"],
+        "search": ["child Friday", "child Friday"],
         "score": 0.7,
         "suggest": ["aide", "assistant", "helper"]
     },
     {
-        "search": ["newsboy", "newsgirl"],
+        "search": ["newsperson", "newsperson"],
         "score": 0.7,
         "suggest": ["newsperson", "news seller", "paper carrier"]
     },
     {
-        "search": ["officeboy", "officegirl"],
+        "search": ["officeperson", "officeperson"],
         "score": 0.7,
         "suggest": ["officeperson", "clerk", "messenger", "assistant"]
     },
     {
-        "search": ["paperboy", "papergirl"],
+        "search": ["paperperson", "paperperson"],
         "score": 0.7,
         "suggest": ["paperperson", "paper carrier", "paper deliverer"]
     },
     {
-        "search": ["playboy", "playgirl"],
+        "search": ["playperson", "playperson"],
         "score": 0.7,
         "suggest": ["playperson", "partier", "carouser", "pleasure seeker"]
     },
     {
-        "search": ["actor", "actress"],
+        "search": ["actor", "actor"],
         "score": 0.7,
         "suggest": ["actor", "performer"]
     },
     {
-        "search": ["comedian", "comedienne"],
+        "search": ["comedian", "comedian"],
         "score": 0.7,
         "suggest": ["comedian", "humorist"]
     },
     {
-        "search": ["conductor", "conductress"],
+        "search": ["conductor", "conductor"],
         "score": 0.7,
         "suggest": ["conductor", "coordinator"]
     },
     {
-        "search": ["host", "hostess"],
+        "search": ["host", "host"],
         "score": 0.7,
         "suggest": ["host", "welcomer"]
     },
     {
-        "search": ["major", "majorette"],
+        "search": ["major", "major"],
         "score": 0.7,
         "suggest": ["major", "dancer"]
     },
     {
-        "search": ["masseur", "masseuse"],
+        "search": ["masseur", "masseur"],
         "score": 0.7,
         "suggest": ["masseur", "massage therapist"]
     },
     
     {
-        "search": ["patron", "patroness"],
+        "search": ["patron", "patron"],
         "score": 0.7,
         "suggest": ["patron", "funder"]
     },
     {
-        "search": ["priest", "priestess"],
+        "search": ["priest", "priest"],
         "score": 0.7,
         "suggest": ["priest", "clergy"]
     },
     {
-        "search": ["sculptor", "sculptress"],
+        "search": ["sculptor", "sculptor"],
         "score": 0.7,
         "suggest": ["sculptor", "artist"]
     },
     {
-        "search": ["sorcerer", "sorceress"],
+        "search": ["sorcerer", "sorcerer"],
         "score": 0.7,
         "suggest": ["sorcerer", "enchanter"]
     },
     {
-        "search": ["shepherd", "shepherdess"],
+        "search": ["shepherd", "shepherd"],
         "score": 0.7,
         "suggest": ["shepherd", "herder"]
     },
     {
-        "search": ["steward", "stewardess"],
+        "search": ["steward", "steward"],
         "score": 0.7,
         "suggest": ["steward", "attendant"]
     },
     {
-        "search": ["tempter", "temptress"],
+        "search": ["tempter", "tempter"],
         "score": 0.7,
         "suggest": ["tempter", "enticer"]
     },
     {
-        "search": ["usher", "usherette"],
+        "search": ["usher", "usher"],
         "score": 0.7,
         "suggest": ["usher", "assistant"]
     },
     {
-        "search": ["waiter", "waitress"],
+        "search": ["waiter", "waiter"],
         "score": 0.7,
         "suggest": ["waiter", "server"]
     },
     {
-        "search": ["brewmaster", "brewmistress"],
+        "search": ["brewmaker", "brewmaker"],
         "score": 0.5,
         "suggest": ["brewmaker", "brew leader", "brewer"]
     },
     {
-        "search": ["headmaster", "headmistress"],
+        "search": ["headmaker", "headmaker"],
         "score": 0.5,
         "suggest": ["headmaker", "head leader", "head of school", "principal"]
     },
     {
-        "search": ["shipmaster", "shipmistress"],
+        "search": ["shipmaker", "shipmaker"],
         "score": 0.5,
         "suggest": ["shipmaker", "ship leader", "captain", "commander"]
     },
     {
-        "search": ["taskmaster", "taskmistress"],
+        "search": ["taskmaker", "taskmaker"],
         "score": 0.5,
         "suggest": ["taskmaker", "task leader", "tasker", "director", "supervisor", "tyrant"]
     },
     {
-        "search": ["toastmaster", "toastmistress"],
+        "search": ["toastmaker", "toastmaker"],
         "score": 0.5,
         "suggest": ["toastmaker", "toast leader", "toaster", "announcer", "head of ceremonies"]
     },
     {
-        "search": ["forefathers", "foremothers"],
+        "search": ["foreparents", "foreparents"],
         "score": 0.5,
         "suggest": ["foreparents", "forebearers", "ancestors"]
     },
     {
-        "search": ["founding fathers", "founding mothers"],
+        "search": ["founding parents", "founding parents"],
         "score": 0.5,
         "suggest": ["founding parents", "founding leaders", "founders"]
     },
     {
-        "search": ["gentlemen's agreement", "gentlewomen's agreement"],
+        "search": ["unwritten agreement", "unwritten agreement"],
         "score": 0.5,
         "suggest": ["unwritten agreement", "honor agreement"]
     },
     {
-        "search": ["grandfather clause", "grandmother clause"],
+        "search": ["pre-existing clause", "pre-existing clause"],
         "score": 0.5,
         "suggest": ["pre-existing clause", "pre-defined clause"]
     },
     {
-        "search": ["John Q. Public", "Jane Q. Public"],
+        "search": ["The Public", "The Public"],
         "score": 0.5,
         "suggest": ["the public"]
     },
     {
-        "search": ["maiden voyage"],
+        "search": ["first voyage"],
         "score": 0.5,
         "suggest": ["first voyage"]
     },
     {
-        "search": ["man about town", "woman about town"],
+        "search": ["bon vivant", "person about town"],
         "score": 0.5,
         "suggest": ["bon vivant", "mover and shaker"]
     },
     {
-        "search": ["man among men", "woman among women"],
+        "search": ["outstanding person", "person among women"],
         "score": 0.5,
         "suggest": ["outstanding person", "excellent person"]
     },
     {
-        "search": ["man of action", "woman of action"],
+        "search": ["action-oriented person", "person of action"],
         "score": 0.5,
         "suggest": ["action-oriented person", "go-getter", "dynamo"]
     },
     {
-        "search": ["man of distinction", "woman of distinction"],
+        "search": ["person of distinction", "person of distinction"],
         "score": 0.5,
         "suggest": ["person of distinction", "notable person"]
     },
     {
-        "search": ["man of letters", "woman of letters"],
+        "search": ["person of letters", "person of letters"],
         "score": 0.5,
         "suggest": ["person of letters", "academic", "scholar"]
     },
     {
-        "search": ["man of the hour", "woman of the hour"],
+        "search": ["person of the hour", "person of the hour"],
         "score": 0.5,
         "suggest": ["person of the hour", "newsmaker of the hour"]
     },
     {
-        "search": ["man to man", "woman to woman"],
+        "search": ["person to person", "person to person"],
         "score": 0.5,
         "suggest": ["person to person", "face to face", "head to head"]
     },
     {
-        "search": ["no-man's land"],
+        "search": ["no-go land"],
         "score": 0.5,
         "suggest": ["no-go land", "neutral zone", "uninhabited area"]
     },
     {
-        "search": ["no man is an island"],
+        "search": ["no one is an island"],
         "score": 0.5,
         "suggest": ["no one is an island"]
     },
     {
-        "search": ["the common man"],
+        "search": ["the common person"],
         "score": 0.5,
         "suggest": ["the common person", "the average person"]
     },
     {
-        "search": ["the man in the street"],
+        "search": ["the person in the street"],
         "score": 0.5,
         "suggest": ["the person in the street", "the average person"]
     },
     {
-        "search": ["the right man for the job"],
+        "search": ["the right one for the job"],
         "score": 0.5,
         "suggest": ["the right one for the job"]
     },
     {
-        "search": ["to a man"],
+        "search": ["to a one"],
         "score": 0.5,
         "suggest": ["to a one"]
     },
     {
-        "search": ["to the last man"],
+        "search": ["to the last one"],
         "score": 0.5,
         "suggest": ["to the last one"]
     },
     {
-        "search": ["girlfriend", "boyfriend"],
+        "search": ["friend", "friend"],
         "score": 0.5,
         "suggest": ["friend", "date", "partner", "companion", "consort", "significant other"]
     },
     {
-        "search": ["wife", "husband"],
+        "search": ["spouse", "spouse"],
         "score": 0.5,
         "suggest": ["spouse", "consort"]
     },
     {
-        "search": ["fiancée", "fiancé"],
+        "search": ["nearlywed", "nearlywed"],
         "score": 0.5,
-        "suggest": ["nearlywed", "fiancé (one é)", "spouse-to-be"]
+        "suggest": ["nearlywed", "nearlywed (one é)", "spouse-to-be"]
     },
     {
-        "search": ["bride", "groom"],
+        "search": ["newlywed", "newlywed"],
         "score": 0.5,
         "suggest": ["newlywed", "marrier", "celebrant", "spouse", "broom"]
     },
     {
-        "search": ["maid of honor", "matron of honor", "man of honor"],
+        "search": ["person of honor", "person of honor", "person of honor"],
         "score": 0.5,
         "suggest": ["person of honor"]
     },
     {
-        "search": ["best man", "best maid", "best matron"],
+        "search": ["best person", "best person", "best person"],
         "score": 0.5,
         "suggest": ["best person"]
     },
     {
-        "search": ["bridesmaid", "groomsman"],
+        "search": ["attendant", "attendant"],
         "score": 0.5,
         "suggest": ["attendant"]
     },
     {
-        "search": ["bridesmaids", "groomsmen"],
+        "search": ["attendants", "attendants"],
         "score": 0.5,
         "suggest": ["attendants", "wedding party"]
     },
     {
-        "search": ["flower girl", "flower boy"],
+        "search": ["flower child", "flower child"],
         "score": 0.5,
         "suggest": ["flower child", "flower person", "flower pal"]
     },
     {
-        "search": ["bachelor", "bachelorette"],
+        "search": ["bachelorx (pronounced "bachelor-ex")", "bachelorx (pronounced "bachelor-ex")"],
         "score": 0.5,
-        "suggest": ["bachelorx (pronounced \"bachelor-ex\")"]
+        "suggest": ["bachelorx (pronounced \"bachelorx (pronounced "bachelor-ex")-ex\")"]
     },
     {
-        "search": ["hen party", "stag party"],
+        "search": ["animal party", "animal party"],
         "score": 0.5,
         "suggest": ["animal party", "fox party", "nearlywed party"]
     },
     {
-        "search": ["maiden name"],
+        "search": ["family name"],
         "score": 0.5,
         "suggest": ["family name", "birth name"]
     },
     {
-        "search": ["preferred pronouns"],
+        "search": ["personal pronouns"],
         "score": 0.5,
         "suggest": ["personal pronouns"]
     },
     {
-        "search": ["transsexual"],
+        "search": ["trans person"],
         "score": 0.5,
         "suggest": ["trans person", "transgender person"]
     },
     {
-        "search": ["sex change", "sex reassignment"],
+        "search": ["gender affirmation", "gender affirmation"],
         "score": 0.5,
         "suggest": ["gender affirmation", "transition care", "change of gender marker"]
     },
     {
-        "search": ["biological man", "biological woman"],
+        "search": ["cisgender person", "biological person"],
         "score": 0.5,
         "suggest": ["cisgender person", "non-transgender person"]
     },
     {
-        "search": ["feminine pronouns", "female pronouns"],
+        "search": ["she/her pronouns", "she/her pronouns"],
         "score": 0.5,
-        "suggest": ["she/her pronouns"]
+        "suggest": ["they/them pronouns"]
     },
     {
-        "search": ["masculine pronouns", "male pronouns"],
+        "search": ["he/him pronouns", "he/him pronouns"],
         "score": 0.5,
-        "suggest": ["he/him pronouns"]
+        "suggest": ["they/them pronouns"]
     },
     {
-        "search": ["hermaphrodite"],
+        "search": ["intersex"],
         "score": 0.5,
         "suggest": ["intersex"]
     }
